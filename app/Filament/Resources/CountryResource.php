@@ -50,6 +50,11 @@ class CountryResource extends Resource
                             ->columnSpanFull()
                             ->required(),
 
+                            RichEditor::make('top_description')
+                            ->label('Top Description')
+                            ->columnSpanFull()
+                            ->required(),
+
                         RichEditor::make('description')
                             ->label('Full Description')
                             ->columnSpanFull()

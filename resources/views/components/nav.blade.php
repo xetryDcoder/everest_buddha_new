@@ -65,7 +65,7 @@
                                          <li><a href="#">Hospitality</a></li>
                                      </ul>
                                  </li>
-                                 <li><a href="services.html">Services</a>
+                                 <li><a href="/services">Services</a>
                                  </li>
                                  <li class="dropdown"><a href="index.html">Universities</a>
                                      <ul>
